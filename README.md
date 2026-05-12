@@ -5,7 +5,7 @@ It ships a platform-specific headless browser and static ffmpeg binary inside on
 Go executable, extracts them once into `~/.cenvero-cetus`, and renders frames
 deterministically through Chrome DevTools Protocol.
 Release builds keep the current version cache and `dev`, and remove older
-versioned renderer caches during asset preparation.
+versioned renderer caches during asset preparation. 
 
 ## Install
 
